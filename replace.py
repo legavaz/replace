@@ -56,6 +56,4 @@ else:
         print('обработка',item_file)
         replace_text(item_file,text_serch,text_replace)
         
-
-
 #input(' для продолжени нажмите Enter')
